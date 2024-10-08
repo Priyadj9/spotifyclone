@@ -1,6 +1,6 @@
 # Spotify Clone - MERN Stack
 
-This project is a full-stack Spotify clone application built using the MERN stack (MongoDB, Express, React, Node.js) with Cloudinary and Multer for efficient handling of audio and images. It allows users to browse and play songs/albums, while admins can upload new content via a separate dashboard.
+This project is a full-stack Spotify clone application built using the MERN stack (MongoDB, Express, React, Node.js) with Cloudinary and Multer for efficient handling of audio and images. Styling is done using Tailwind CSS. It allows users to browse and play songs/albums, while admins can upload new content via a separate dashboard.
 
 ## Live Demo
 
@@ -20,6 +20,7 @@ This project is a full-stack Spotify clone application built using the MERN stac
 
 - **Frontend (Main App & Admin Dashboard):**
   - React.js
+  - Tailwind CSS
   - Context API for state management
   - Axios for API calls
 
